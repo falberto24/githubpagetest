@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 03 Nov 2024 23:50:54 at https://g1.globo.com/sp/presidente-prudente-regiao/noticia/2024/10/31/passageiro-de-onibus-e-preso-em-flagrante-apos-esconder-62kg-de-skunk-dentro-de-mochila-em-presidente-prudente.ghtml +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://g1.globo.com/sp/presidente-prudente-regiao/noticia/2024/10/31/passageiro-de-onibus-e-preso-em-flagrante-apos-esconder-62kg-de-skunk-dentro-de-mochila-em-presidente-prudente.ghtml -O1 "C:\Users\PC\Desktop\clon3\noticia2024" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:51:29	Warning: 	Unexpected socket error during pre-loop
+23:51:46	Error: 	"Bad Request" (400) at link www.googletagmanager.com/gtm.js?id= (from https://g1.globo.com/sp/presidente-prudente-regiao/noticia/2024/10/31/passageiro-de-onibus-e-preso-em-flagrante-apos-esconder-62kg-de-skunk-dentro-de-mochila-em-presidente-prudente.ghtml)
+23:51:47	Error: 	"Not Found" (404) at link https://g1.globo.com/sp/presidente-prudente-regiao/noticia/2024/10/31/g1.globo.com/busca (from https://g1.globo.com/sp/presidente-prudente-regiao/noticia/2024/10/31/passageiro-de-onibus-e-preso-em-flagrante-apos-esconder-62kg-de-skunk-dentro-de-mochila-em-presidente-prudente.ghtml)
+23:51:47	Error: 	"Not Found" (404) at link https://g1.globo.com/sp/presidente-prudente-regiao/noticia/2024/10/31/t/ (from https://g1.globo.com/sp/presidente-prudente-regiao/noticia/2024/10/31/passageiro-de-onibus-e-preso-em-flagrante-apos-esconder-62kg-de-skunk-dentro-de-mochila-em-presidente-prudente.ghtml)
+23:51:52	Warning: 	Retry after error -4 (Receive Error) at link https://s2-g1.glbimg.com/JbMmngfzl58eHM1fLMvK73QvhRs=/0x0:597x414/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/y/d/pVPTYFQVeS0SrUHmOuzQ/foto-droga.png (from https://g1.globo.com/sp/presidente-prudente-regiao/noticia/2024/10/31/passageiro-de-onibus-e-preso-em-flagrante-apos-esconder-62kg-de-skunk-dentro-de-mochila-em-presidente-prudente.ghtml)
+23:52:06	Error: 	"Not Found" (404) at link https://g1.globo.com/sp/presidente-prudente-regiao/noticia/2024/10/31/;path=/ (from https://g1.globo.com/sp/presidente-prudente-regiao/noticia/2024/10/31/passageiro-de-onibus-e-preso-em-flagrante-apos-esconder-62kg-de-skunk-dentro-de-mochila-em-presidente-prudente.ghtml)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 11 seconds : 77 links scanned, 71 files written (5838031 bytes overall) [1664417 bytes received at 23442 bytes/sec], 5520772 bytes transferred using HTTP compression in 58 files, ratio 23%, 2.6 requests per connection
+(4 errors, 2 warnings, 0 messages)
